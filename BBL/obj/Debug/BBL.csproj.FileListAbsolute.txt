@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\bin\Debug\BBL.dll
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\bin\Debug\BBL.pdb
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\bin\Debug\DAL.dll
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\bin\Debug\DAL.pdb
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\obj\Debug\BBL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\obj\Debug\BBL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\obj\Debug\BBL.dll
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\obj\Debug\BBL.pdb
+C:\Users\admin\source\repos\Solucion_Demo_de_proyecto_simple\BBL\obj\Debug\BBL.csproj.Up2Date

@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="Demo_de_proyecto_simple.Pantallas.PG_Maestra.Principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+     <link href="../../Recursos/Estilos/StyleSheet_Inicio.css" rel="stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-image: url(../../Recursos/Imagenes/HD-wallpaper-final-fantasy-xiv.jpg);
+
+background-attachment:fixed;
+background-size:cover;">
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
